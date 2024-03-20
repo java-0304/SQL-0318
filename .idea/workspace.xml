@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b29fcae5-3dbe-4c26-95f7-c3bbae942cc6" name="Changes" comment="서울시공공데이터 를 yscom.테이블에 데이터 추가하여 sql 문장 실습하기" />
+    <list default="true" id="b29fcae5-3dbe-4c26-95f7-c3bbae942cc6" name="Changes" comment="first">
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources/4e9ffd80-e6e7-44dc-91a3-b6d65ba1fe4f.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dataSources/4e9ffd80-e6e7-44dc-91a3-b6d65ba1fe4f.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,10 +24,10 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2du9MoTHRjqDBzN74YkP2Ztvkfc" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -45,10 +49,10 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Libraries",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.20465116",
     "project.structure.side.proportion": "0.42137593",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "settings.editor.selected.configurable": "com.intellij.kubernetes.view.ui.settings.KubernetesViewConfigurable",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -72,7 +76,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1710847052605</updated>
-      <workItem from="1710847053713" duration="14244000" />
+      <workItem from="1710847053713" duration="14863000" />
+      <workItem from="1710861986556" duration="3547000" />
     </task>
     <task id="LOCAL-00001" summary="서울시공공데이터 를 yscom.테이블에 데이터 추가하여 sql 문장 실습하기">
       <option name="closed" value="true" />
@@ -90,7 +95,15 @@
       <option name="project" value="LOCAL" />
       <updated>1710861177709</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first">
+      <option name="closed" value="true" />
+      <created>1710861561773</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1710861561773</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,7 +111,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="서울시공공데이터 를 yscom.테이블에 데이터 추가하여 sql 문장 실습하기" />
-    <option name="LAST_COMMIT_MESSAGE" value="서울시공공데이터 를 yscom.테이블에 데이터 추가하여 sql 문장 실습하기" />
+    <MESSAGE value="first" />
+    <option name="LAST_COMMIT_MESSAGE" value="first" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
